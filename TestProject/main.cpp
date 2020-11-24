@@ -4,7 +4,7 @@ using namespace std;
 
 int main (void)
 {
-	cout << "THIS IS NOT A TEST PROJECT!!!" << "by HB" << endl;
+	cout << "THIS IS NOT A TEST PROJECT!!!" << "by DB" << endl;
 
 	cin.get();
 	return 0;
