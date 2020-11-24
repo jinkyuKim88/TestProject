@@ -16,6 +16,8 @@ int main (void)
 
 	cout << "hehe" << endl;
 
+	cout << "gggg" << endl;
+
 	cin.get();
 	return 0;
 }
