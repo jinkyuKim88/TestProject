@@ -12,6 +12,8 @@ int main (void)
 	cout << "yes Dae bu" << endl;
 	cout << "Haengbaeya!" << endl;
 
+	cout << "nn" << endl;
+
 	cin.get();
 	return 0;
 }
