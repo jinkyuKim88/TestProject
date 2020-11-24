@@ -4,6 +4,8 @@ using namespace std;
 
 int main (void)
 {
+	cout << "rebase plz....." << endl;
+	
 	cout << "THIS IS NOT A TEST PROJECT!!!" << "by HB" << endl;
 	cout << "Haengbaeya!" << endl;
 
