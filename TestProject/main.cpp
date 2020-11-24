@@ -10,6 +10,8 @@ int main (void)
 	cout << "yes Dae bu" << endl;
 	cout << "Haengbaeya!" << endl;
 
+	cout << "hing..." << endl;
+
 	cin.get();
 	return 0;
 }
