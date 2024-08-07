@@ -1,18 +1,8 @@
-# my..
+# first page
 
-이것은..
+this.. is... test....
 
-
-
-한번 해보는 것..!
-
-
-
-
-
-[my](my/ "mention")
-
-
+[second-page](second-page/ "mention")
 
 * a
 * b

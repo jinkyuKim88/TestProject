@@ -1,7 +1,7 @@
 # Table of contents
 
-* [my..](README.md)
-  * [이게 하위 페이지](my../undefined.md)
-  * [두번째 하위](my../undefined-1.md)
-* [my 옆에 있는 페이지](my/README.md)
-  * [my 옆의 하위](my/my.md)
+* [first page](README.md)
+  * [first child of first](first-page/first-child-of-first.md)
+  * [second child of first](first-page/second-child-of-first.md)
+* [second page](second-page/README.md)
+  * [child of second](second-page/child-of-second.md)
